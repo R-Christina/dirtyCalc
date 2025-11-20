@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.*;
 import java.lang.Math;
 
-public class VeryDirtyCalc {
+public class DirtyCalc{
 
     // variables globales inutiles
     public static float A = 0;
