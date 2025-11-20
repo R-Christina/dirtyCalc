@@ -26,4 +26,4 @@ jobs:
 
       # 3. Compiler le fichier Java
       - name: Compile
-        run: javac src/dirtyCalc.java
+        run: javac src/DirtyCalc.java
